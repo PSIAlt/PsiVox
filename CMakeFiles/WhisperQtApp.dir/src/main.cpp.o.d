@@ -1089,9 +1089,15 @@ CMakeFiles/WhisperQtApp.dir/src/main.cpp.o: \
   /Users/psialt/miniconda3/include/qt/QtMultimedia/qaudioformat.h \
   /Users/psialt/miniconda3/include/qt/QtMultimedia/qaudiodeviceinfo.h \
   /Users/psialt/miniconda3/include/qt/QtMultimedia/QAudioFormat \
-  /Users/psialt/miniconda3/include/qt/QtCore/QBuffer \
-  /Users/psialt/miniconda3/include/qt/QtCore/qbuffer.h \
+  /Users/psialt/miniconda3/include/qt/QtCore/QIODevice \
+  /Users/psialt/miniconda3/include/qt/QtCore/QTimer \
+  /Users/psialt/miniconda3/include/qt/QtCore/qtimer.h \
+  /Users/psialt/miniconda3/include/qt/QtCore/qbasictimer.h \
   /Users/psialt/miniconda3/include/qt/QtCore/QByteArray \
+  /Users/psialt/miniconda3/include/qt/QtCore/QMutex \
+  /Users/psialt/miniconda3/include/qt/QtCore/QMutexLocker \
+  /Users/psialt/miniconda3/include/qt/QtCore/QQueue \
+  /Users/psialt/miniconda3/include/qt/QtCore/qqueue.h \
   /Users/psialt/miniconda3/include/qt/QtCore/QFuture \
   /Users/psialt/miniconda3/include/qt/QtCore/qfuture.h \
   /Users/psialt/miniconda3/include/qt/QtCore/qfutureinterface.h \
@@ -1116,8 +1122,8 @@ CMakeFiles/WhisperQtApp.dir/src/main.cpp.o: \
   /Users/psialt/miniconda3/include/qt/QtCore/qanimationgroup.h \
   /Users/psialt/miniconda3/include/qt/QtCore/qarraydataops.h \
   /Users/psialt/miniconda3/include/qt/QtCore/qarraydatapointer.h \
-  /Users/psialt/miniconda3/include/qt/QtCore/qbasictimer.h \
   /Users/psialt/miniconda3/include/qt/QtCore/qbitarray.h \
+  /Users/psialt/miniconda3/include/qt/QtCore/qbuffer.h \
   /Users/psialt/miniconda3/include/qt/QtCore/qbytearraymatcher.h \
   /Users/psialt/miniconda3/include/qt/QtCore/qcache.h \
   /Users/psialt/miniconda3/include/qt/QtCore/qcalendar.h \
@@ -1185,7 +1191,6 @@ CMakeFiles/WhisperQtApp.dir/src/main.cpp.o: \
   /Users/psialt/miniconda3/include/qt/QtCore/qprocess.h \
   /Users/psialt/miniconda3/include/qt/QtCore/qpropertyanimation.h \
   /Users/psialt/miniconda3/include/qt/QtCore/qvariantanimation.h \
-  /Users/psialt/miniconda3/include/qt/QtCore/qqueue.h \
   /Users/psialt/miniconda3/include/qt/QtCore/qrandom.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/random \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__random/bernoulli_distribution.h \
@@ -1290,7 +1295,6 @@ CMakeFiles/WhisperQtApp.dir/src/main.cpp.o: \
   /Users/psialt/miniconda3/include/qt/QtCore/qthreadpool.h \
   /Users/psialt/miniconda3/include/qt/QtCore/qthreadstorage.h \
   /Users/psialt/miniconda3/include/qt/QtCore/qtimeline.h \
-  /Users/psialt/miniconda3/include/qt/QtCore/qtimer.h \
   /Users/psialt/miniconda3/include/qt/QtCore/qtimezone.h \
   /Users/psialt/miniconda3/include/qt/QtCore/qtranslator.h \
   /Users/psialt/miniconda3/include/qt/QtCore/qtransposeproxymodel.h \
@@ -1318,8 +1322,8 @@ CMakeFiles/WhisperQtApp.dir/src/main.cpp.o: \
   /Users/psialt/miniconda3/include/qt/QtConcurrent/qtconcurrentstoredfunctioncall.h \
   /Users/psialt/miniconda3/include/qt/QtConcurrent/qtconcurrentversion.h \
   /Users/psialt/miniconda3/include/qt/QtCore/QFutureWatcher \
-  /Users/psialt/miniconda3/include/qt/QtCore/QMutex \
-  /Users/psialt/miniconda3/include/qt/QtCore/QMutexLocker \
+  /Users/psialt/miniconda3/include/qt/QtCore/QElapsedTimer \
+  /Users/psialt/miniconda3/include/qt/QtCore/QDateTime \
   /Users/psialt/repos/meeting-minutes/mybicycle/external/whisper.cpp/src/../include/whisper.h \
   /Users/psialt/repos/meeting-minutes/mybicycle/external/whisper.cpp/ggml/src/../include/ggml.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/stdbool.h \

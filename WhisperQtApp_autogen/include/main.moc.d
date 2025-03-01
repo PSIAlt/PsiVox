@@ -978,15 +978,19 @@
   /Users/psialt/miniconda3/include/qt/QtConcurrent/qtconcurrentstoredfunctioncall.h \
   /Users/psialt/miniconda3/include/qt/QtConcurrent/qtconcurrentthreadengine.h \
   /Users/psialt/miniconda3/include/qt/QtConcurrent/qtconcurrentversion.h \
-  /Users/psialt/miniconda3/include/qt/QtCore/QBuffer \
   /Users/psialt/miniconda3/include/qt/QtCore/QByteArray \
+  /Users/psialt/miniconda3/include/qt/QtCore/QDateTime \
   /Users/psialt/miniconda3/include/qt/QtCore/QDeadlineTimer \
+  /Users/psialt/miniconda3/include/qt/QtCore/QElapsedTimer \
   /Users/psialt/miniconda3/include/qt/QtCore/QFuture \
   /Users/psialt/miniconda3/include/qt/QtCore/QFutureWatcher \
+  /Users/psialt/miniconda3/include/qt/QtCore/QIODevice \
   /Users/psialt/miniconda3/include/qt/QtCore/QMutex \
   /Users/psialt/miniconda3/include/qt/QtCore/QMutexLocker \
   /Users/psialt/miniconda3/include/qt/QtCore/QObject \
+  /Users/psialt/miniconda3/include/qt/QtCore/QQueue \
   /Users/psialt/miniconda3/include/qt/QtCore/QStringList \
+  /Users/psialt/miniconda3/include/qt/QtCore/QTimer \
   /Users/psialt/miniconda3/include/qt/QtCore/QtCore \
   /Users/psialt/miniconda3/include/qt/QtCore/QtCoreDepends \
   /Users/psialt/miniconda3/include/qt/QtCore/qabstractanimation.h \

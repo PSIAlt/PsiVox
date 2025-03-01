@@ -980,15 +980,19 @@
  mdp:/Users/psialt/miniconda3/include/qt/QtConcurrent/qtconcurrentstoredfunctioncall.h
  mdp:/Users/psialt/miniconda3/include/qt/QtConcurrent/qtconcurrentthreadengine.h
  mdp:/Users/psialt/miniconda3/include/qt/QtConcurrent/qtconcurrentversion.h
- mdp:/Users/psialt/miniconda3/include/qt/QtCore/QBuffer
  mdp:/Users/psialt/miniconda3/include/qt/QtCore/QByteArray
+ mdp:/Users/psialt/miniconda3/include/qt/QtCore/QDateTime
  mdp:/Users/psialt/miniconda3/include/qt/QtCore/QDeadlineTimer
+ mdp:/Users/psialt/miniconda3/include/qt/QtCore/QElapsedTimer
  mdp:/Users/psialt/miniconda3/include/qt/QtCore/QFuture
  mdp:/Users/psialt/miniconda3/include/qt/QtCore/QFutureWatcher
+ mdp:/Users/psialt/miniconda3/include/qt/QtCore/QIODevice
  mdp:/Users/psialt/miniconda3/include/qt/QtCore/QMutex
  mdp:/Users/psialt/miniconda3/include/qt/QtCore/QMutexLocker
  mdp:/Users/psialt/miniconda3/include/qt/QtCore/QObject
+ mdp:/Users/psialt/miniconda3/include/qt/QtCore/QQueue
  mdp:/Users/psialt/miniconda3/include/qt/QtCore/QStringList
+ mdp:/Users/psialt/miniconda3/include/qt/QtCore/QTimer
  mdp:/Users/psialt/miniconda3/include/qt/QtCore/QtCore
  mdp:/Users/psialt/miniconda3/include/qt/QtCore/QtCoreDepends
  mdp:/Users/psialt/miniconda3/include/qt/QtCore/qabstractanimation.h
