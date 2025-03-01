@@ -1,0 +1,8 @@
+ggml-blas_autogen/timestamp: \
+	/Users/psialt/repos/meeting-minutes/mybicycle/external/whisper.cpp/ggml/src/ggml-blas/CMakeLists.txt \
+	/Users/psialt/repos/meeting-minutes/mybicycle/external/whisper.cpp/ggml/src/ggml-blas/ggml-blas.cpp \
+	/opt/homebrew/share/cmake/Modules/CheckFunctionExists.cmake \
+	/opt/homebrew/share/cmake/Modules/FindBLAS.cmake \
+	/opt/homebrew/share/cmake/Modules/FindPackageHandleStandardArgs.cmake \
+	/opt/homebrew/share/cmake/Modules/FindPackageMessage.cmake \
+	/opt/homebrew/bin/cmake

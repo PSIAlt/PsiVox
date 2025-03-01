@@ -1,0 +1,30 @@
+ggml-cpu_autogen/timestamp: \
+	/Users/psialt/repos/meeting-minutes/mybicycle/external/whisper.cpp/ggml/src/CMakeLists.txt \
+	/Users/psialt/repos/meeting-minutes/mybicycle/external/whisper.cpp/ggml/src/ggml-cpu/amx/amx.cpp \
+	/Users/psialt/repos/meeting-minutes/mybicycle/external/whisper.cpp/ggml/src/ggml-cpu/amx/amx.h \
+	/Users/psialt/repos/meeting-minutes/mybicycle/external/whisper.cpp/ggml/src/ggml-cpu/amx/mmq.cpp \
+	/Users/psialt/repos/meeting-minutes/mybicycle/external/whisper.cpp/ggml/src/ggml-cpu/amx/mmq.h \
+	/Users/psialt/repos/meeting-minutes/mybicycle/external/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu-aarch64.cpp \
+	/Users/psialt/repos/meeting-minutes/mybicycle/external/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu-aarch64.h \
+	/Users/psialt/repos/meeting-minutes/mybicycle/external/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu-hbm.cpp \
+	/Users/psialt/repos/meeting-minutes/mybicycle/external/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu-hbm.h \
+	/Users/psialt/repos/meeting-minutes/mybicycle/external/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu-impl.h \
+	/Users/psialt/repos/meeting-minutes/mybicycle/external/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu-quants.c \
+	/Users/psialt/repos/meeting-minutes/mybicycle/external/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu-quants.h \
+	/Users/psialt/repos/meeting-minutes/mybicycle/external/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu-traits.cpp \
+	/Users/psialt/repos/meeting-minutes/mybicycle/external/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu-traits.h \
+	/Users/psialt/repos/meeting-minutes/mybicycle/external/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu.c \
+	/Users/psialt/repos/meeting-minutes/mybicycle/external/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu.cpp \
+	/opt/homebrew/share/cmake/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake \
+	/opt/homebrew/share/cmake/Modules/CMakeParseImplicitLinkInfo.cmake \
+	/opt/homebrew/share/cmake/Modules/CheckCXXCompilerFlag.cmake \
+	/opt/homebrew/share/cmake/Modules/CheckCXXSourceCompiles.cmake \
+	/opt/homebrew/share/cmake/Modules/CheckCXXSourceRuns.cmake \
+	/opt/homebrew/share/cmake/Modules/FindOpenMP.cmake \
+	/opt/homebrew/share/cmake/Modules/FindPackageHandleStandardArgs.cmake \
+	/opt/homebrew/share/cmake/Modules/FindPackageMessage.cmake \
+	/opt/homebrew/share/cmake/Modules/Internal/CheckCompilerFlag.cmake \
+	/opt/homebrew/share/cmake/Modules/Internal/CheckFlagCommonConfig.cmake \
+	/opt/homebrew/share/cmake/Modules/Internal/CheckSourceCompiles.cmake \
+	/opt/homebrew/share/cmake/Modules/Internal/CheckSourceRuns.cmake \
+	/opt/homebrew/bin/cmake
