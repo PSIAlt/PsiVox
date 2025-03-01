@@ -11,4 +11,6 @@
 # Ignore compiled files
 *.o
 *.exe
+external/
+whilsper_build/
 
